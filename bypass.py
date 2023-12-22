@@ -17,8 +17,8 @@ def is_admin():
     except:
         return False
 if not is_admin():
-    print("Admin privileges required, please run as admin...")
     subprocess.call("cls", shell=True)
+    print("Admin privileges required, please run as admin...")
     hinstance = ctypes.windll.shell32.ShellExecuteW(None, 'runas', sys.executable, sys.argv[0], None, 1)
     sys.exit()
 
