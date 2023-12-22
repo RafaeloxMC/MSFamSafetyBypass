@@ -6,10 +6,10 @@ Bypassing Microsofts' Family Safety with some super simple Python code (administ
 - Extract the .zip file to a folder
 - Run the `bypass.exe` file
 
-## OR
+**OR**
 
 - Download `bypass.py`
-- Open a terminal in its folder
-- Type `python.exe bypass.py`
+- Open a terminal in located in the same folder as `bypass.py`
+- Type `python.exe bypass.py` and hit enter
 
 # HAVE FUN
