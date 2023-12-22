@@ -5,6 +5,7 @@ Bypassing Microsofts' Family Safety with some super simple Python code (administ
 - Head over to the [Releases](https://github.com/RafaeloxMC/MSFamSafetyBypass/releases/) and download the latest file.
 - Extract the .zip file to a folder
 - Run the `bypass.exe` file
+- If it tells you that the file might not be safe, click `More Information` and `Run Anyway`
 
 **OR**
 
